@@ -44,6 +44,9 @@ Bot 內建四款小遊戲：
     python bot.py
     
     ```
+
+5. 程式架構
+   ![System Architecture Diagram](./assets/architecture_diagram.png)
     
 
 ---
