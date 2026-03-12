@@ -46,7 +46,7 @@ Bot 內建四款小遊戲：
     ```
 
 5. 程式架構
-   ![System Architecture Diagram](./assets/architecture_diagram.png)
+   ![System Architecture Diagram](./assets/system_architecture_diagram.png)
     
 
 ---
