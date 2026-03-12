@@ -2,7 +2,7 @@
 
 一個用 **Python** 撰寫的 Discord Bot，提供簡單的文字互動小遊戲。
 
-此專案為 **馬公高中 陳昊宇 - 學生自主學習計畫：以Python撰寫Discord Bot** 的成果。
+此專案為 **「馬公高中 陳昊宇 - 學生自主學習計畫：以Python撰寫Discord Bot」** 的成果。
 
 ---
 
